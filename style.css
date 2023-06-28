@@ -49,6 +49,7 @@ section#redes-sociais img{
     box-sizing: border-box;
     position: relative;
 
+
 }
 section#redes-sociais img:hover{
     border: 2px solid rgba(255, 255, 255, 0.603);
